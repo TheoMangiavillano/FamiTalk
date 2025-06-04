@@ -1,3 +1,6 @@
+![FamiTalk](https://github.com/user-attachments/assets/5cb35589-87d4-41a9-95e0-d89b36f8381c)
+
+
 Project Setup & Usage
 🖥️ Virtual Machine Setup
 The application was developed and tested inside a Windows 10 Virtual Machine.
