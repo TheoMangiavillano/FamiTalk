@@ -59,4 +59,5 @@ MetroFramework by Dennis Magno, GitHub Repository
 
 📞 Contact
 For questions or bugs, please open an issue or contact me directly via GitHub.
+![image](https://github.com/user-attachments/assets/b7960d11-0b79-4612-90ec-8faafa363c18)
 
