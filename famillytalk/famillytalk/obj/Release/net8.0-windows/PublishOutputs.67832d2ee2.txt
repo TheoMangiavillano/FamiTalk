@@ -1,0 +1,9 @@
+C:\Users\wonef\Desktop\VMBOXFTT\famillytalk.exe
+C:\Users\wonef\Desktop\VMBOXFTT\famillytalk.dll
+C:\Users\wonef\Desktop\VMBOXFTT\famillytalk.deps.json
+C:\Users\wonef\Desktop\VMBOXFTT\famillytalk.runtimeconfig.json
+C:\Users\wonef\Desktop\VMBOXFTT\famillytalk.pdb
+C:\Users\wonef\Desktop\VMBOXFTT\ControlzEx.dll
+C:\Users\wonef\Desktop\VMBOXFTT\MahApps.Metro.dll
+C:\Users\wonef\Desktop\VMBOXFTT\Microsoft.Xaml.Behaviors.dll
+C:\Users\wonef\Desktop\VMBOXFTT\de\MahApps.Metro.resources.dll
